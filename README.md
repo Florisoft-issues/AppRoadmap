@@ -1,5 +1,7 @@
 # Florisoft Publieke Roadmap
 
+📘 Beschikbaar in: [English version](./Florisoft_README_EN.md)
+
 ❇️ Bekijk de [officiële publieke app-roadmap van Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
 
 Welkom bij de publieke roadmap van Florisoft. Hier vind je een overzicht van de app-functionaliteiten waar we aan werken, in welke fase ze zich bevinden, en wanneer we verwachten deze te lanceren. Heb je vragen of suggesties? Laat van je horen via [onze publieke GitHub-discussies](https://github.com/Florisoft-issues/AppRoadmap/discussions).
