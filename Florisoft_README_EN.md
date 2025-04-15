@@ -1,63 +1,61 @@
 # Florisoft Public Roadmap
 
-❇️ View the [official Florisoft public app roadmap](https://github.com/orgs/Florisoft-issues/projects/67)
+❇️ Check out the [official public app roadmap of Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
 
-Welcome to Florisoft’s public roadmap. Here you’ll find an overview of the app features we’re working on, the phase they are currently in, and when we expect to deliver them. Have questions or suggestions? Share your thoughts via [our public GitHub discussions](https://github.com/Florisoft-issues/AppRoadmap/discussions).
+Welcome to the public roadmap of Florisoft. Here you’ll find an overview of the app features we’re working on, their current development stage, and expected release timelines. Questions or suggestions? Join the conversation via [our public GitHub discussions](https://github.com/Florisoft-issues/AppRoadmap/discussions).
 
-This repository is intended to provide transparency into our product development process. Issues are currently read-only. As we evolve this roadmap format, we plan to open up more interaction. Feedback about this environment itself is welcome via [general feedback on GitHub](https://github.com/orgs/community/discussions/new?category=general).
+This repository is meant to offer transparency into our product development. Issues are currently read-only. In the future, we aim to broaden interactions and refine the roadmap format. Feedback on this environment itself is welcome via [general GitHub feedback](https://github.com/orgs/community/discussions/new?category=general).
 
 ---
 
 ## Roadmap Guide
 
-Each item in the roadmap is a GitHub issue labeled with:
+Each roadmap item is a GitHub issue with labels indicating:
 
-- The **development phase** it’s currently in (see below)
-- The **functional domain** of the app (e.g., CRM, logistics, inventory)
+- The **development phase** it’s in (see below)
+- The **functional area** within our apps (e.g., Logistics, Sales, Inventory)
 - A specific **feature** or module
-- The **Florisoft product line** it applies to (e.g., Basic, Pro, Custom)
-- The **deployment model** (Cloud or On-premise)
-- Once delivered, the item is labeled **shipped** and closed with a changelog link
+- Once delivered, the item receives a **delivered** label and is closed with a link to the changelog
 
 ---
 
 ## Development Phases
 
-Our roadmap follows a structured set of phases agreed upon during a project kickoff. Each app or feature starts with an MVP and continues through iterative expansion and improvement rounds.
+Our roadmap is structured around fixed development phases, as discussed during project kickoffs. Every app or feature goes through at least an MVP phase, followed by iterative enhancements and improvements.
 
-### 🌱 Initial Development Phases (Kickoff-based)
+### 🌱 Initial Development Phases (Kickoff-Based)
 
 - **Dev phase 1 (MVP):**  
-  Initial working version with core functionality.
+  The first working version with core functionality.
 
-- **Go Live:**  
-  The MVP is launched and optionally deployed to production.
+- **Go-live:**  
+  MVP is delivered and potentially deployed in production.
 
 - **Dev phase 2 – 5 (child use cases):**  
-  Incremental expansions of the MVP with specific sub-features.
+  Refinements and enhancements to the MVP with targeted additional features.
 
-- **Go Live after each phase:**  
-  Partial releases after completing each development stage.
+- **Go-live after each phase:**  
+  Intermediate deliveries following the completion of each phase.
 
-### 🔄 Improvement Phases (Improve Phases)
+### 🔄 Improvement Phases
 
-Once enough feedback, ideas or issues have been collected, we launch a new improvement batch:
+Once enough feedback, ideas, or bugs have been collected, we start a new improvement round:
 
 - **Improve phase 1:**  
-  Enhancements and refinements based on real-world use.
+  Optimizations and UX improvements based on real-world use.
 
 - **Improve phase 2, 3, …**  
-  Additional improvement cycles based on gathered input.
+  Follow-up phases handling batches of new enhancements.
 
-This phased approach allows us to deliver value quickly while continuing to improve iteratively.
+This approach allows us to deliver value quickly while continuously improving.
 
 ---
 
-## Functional Areas & Module Structure
+## Functional Areas and Module Structure
 
-To categorize roadmap items, Florisoft uses two levels:
+To organize roadmap items, Florisoft uses two levels of categorization:
 
-### 🔹 Project Layer (functional domains)
+### 🔹 Project Layer (Functional Domains)
 
 - Logistics  
 - Purchasing  
@@ -69,7 +67,7 @@ To categorize roadmap items, Florisoft uses two levels:
 - Management  
 - Assets
 
-### 🔸 Folder Structure (modules)
+### 🔸 Map Structure (Submodules)
 
 - Packing, Picking, Sorting  
 - Quality Control, Labeling  
@@ -78,23 +76,12 @@ To categorize roadmap items, Florisoft uses two levels:
 - Stock Counting, Asset Tracking, Jobagent  
 - Purchasing Proposals
 
-This structure will soon be available as a visual overview on the roadmap:
+This structure will soon be available as a visual overview within the roadmap. You’ll find it via this link:
 
-📁 **[View project and module structure (coming soon)](https://github.com/Florisoft-issues/AppRoadmap/wiki/Structure)**
-
----
-
-## Product Labels
-
-We use labels to indicate which users or packages a feature is meant for:
-
-- **all users**
-- **Florisoft Basic**
-- **Florisoft Pro**
-- **custom clients**
+📁 **[View the project and map structure (coming soon)](https://github.com/Florisoft-issues/AppRoadmap/wiki/Structuur)**
 
 ---
 
 ## Disclaimer
 
-All forward-looking information in this repository is based on the current state of knowledge. This roadmap is a guideline and not a guarantee or promise for delivery dates. The roadmap may be adjusted over time. Do not use this roadmap as the sole basis for purchasing decisions.
+All forward-looking information in this repository is based on our current knowledge. This roadmap serves as a guideline and does not represent a guarantee or promise for specific delivery dates. The roadmap may be adjusted at any time. Therefore, please do not use the roadmap as a basis for purchasing decisions.
