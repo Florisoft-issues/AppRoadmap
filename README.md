@@ -15,10 +15,8 @@ Deze repository is bedoeld om inzicht te geven in onze productontwikkeling. Issu
 Elke roadmap-item is een GitHub issue met labels die aangeven:
 
 - De **ontwikkelfase** waarin het item zich bevindt (zie hieronder)
-- Het **functiegebied** binnen onze apps (bijv. CRM, logistiek, voorraad)
+- Het **functiegebied** binnen onze apps (bijv. Logistics, Sales, Inventory)
 - Een specifieke **feature** of module
-- De **Florisoft-productlijn** waarvoor het item bedoeld is (bijv. Basis, Pro, Maatwerk)
-- Het **uitrolmodel** (Cloud of On-premise)
 - Eenmaal opgeleverd, krijgt het item het label **geleverd** en wordt het gesloten met een link naar de changelog
 
 ---
@@ -80,23 +78,11 @@ Voor het structureren van roadmap-items gebruiken we binnen Florisoft twee categ
 - Stock Counting, Asset Tracking, Jobagent  
 - Purchasing Proposals
 
-Deze structuur zal binnenkort als visueel overzicht beschikbaar worden gesteld op de roadmap. Je vindt het dan hier:
+Deze structuur zal binnenkort als visueel overzicht beschikbaar worden gesteld op de roadmap. Je vindt het dan met deze link.
 
 📁 **[Bekijk de project- en mapstructuur (binnenkort beschikbaar)](https://github.com/Florisoft-issues/AppRoadmap/wiki/Structuur)**
 
 ---
-
-## Productlabels
-
-We gebruiken labels om aan te geven voor welke gebruikers of pakketten een functie is bedoeld:
-
-- **alle gebruikers**
-- **Florisoft Basis**
-- **Florisoft Pro**
-- **maatwerkklant**
-
----
-
 ## Disclaimer
 
 Alle vooruitblikkende informatie in deze repository is gebaseerd op de kennis van dit moment. Deze roadmap is bedoeld als richtlijn en biedt geen garantie of belofte voor specifieke leverdata. De roadmap kan tussentijds worden aangepast. Gebruik de roadmap daarom niet als aankoopbeslissing.
