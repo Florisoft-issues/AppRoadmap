@@ -1,88 +1,216 @@
-# Florisoft Publieke Roadmap
+📘 Beschikbaar in: [English version](https://github.com/Florisoft-issues/AppRoadmap/blob/main/Florisoft_README_EN.md)
 
-📘 Beschikbaar in: [English version](./Florisoft_README_EN.md)
+❇️ Bekijk de [officiële publieke app-roadmap van Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
 
-❇️ Bekijk de [officiële publieke app-roadmap van Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
+Welkom bij de publieke **Florisoft Roadmap**. Deze omgeving biedt een actueel en gestructureerd overzicht van de app-functionaliteiten waar we aan werken, inclusief hun status en verwachte oplevermomenten.
 
-Welkom bij de publieke roadmap van Florisoft. Hier vind je een overzicht van de app-functionaliteiten waar we aan werken, in welke fase ze zich bevinden, en wanneer we verwachten deze te lanceren. Heb je vragen of suggesties? Laat van je horen via [onze publieke GitHub-discussies](https://github.com/Florisoft-issues/AppRoadmap/discussions).
+**In deze repository worden onderstaande punten nader toegelicht:**
+1. [Opbouw & handleiding van de roadmap](#1-opbouw--handleiding-van-de-roadmap)  
+2. [Ontwikkelfases](#2-ontwikkelfases)  
+3. [App structuur: functioneel domein, applicaties en use cases](#3-app-structuur-functioneel-domein-applicaties-en-use-cases)
 
-Deze repository is bedoeld om inzicht te geven in onze productontwikkeling. Issues zijn op dit moment alleen-lezen. In een later stadium willen we de interactie verbreden en het format van de roadmap verder verfijnen. Feedback over deze omgeving zelf is welkom via [algemene feedback op GitHub](https://github.com/orgs/community/discussions/new?category=general).
+De huidige roadmap is bedoeld om onze gebruikers inzicht te geven in onze productontwikkeling. In een later stadium willen we de interactie verbreden, het format verfijnen en u de mogelijkheid bieden om actief mee te denken. 
 
----
+Indien u feedback wilt geven over de applicaties of deze omgeving, kan dat via [algemene feedback op GitHub](https://github.com/orgs/community/discussions/new?category=general).
 
-## Handleiding bij de roadmap
+## 1. Opbouw & handleiding van de roadmap
 
-Elke roadmap-item is een GitHub issue met labels die aangeven:
+Bij het openen van de publieke roadmap ziet u een **totaaloverzicht** van alle app-ontwikkelingen met per ontwikkeling de tijdlijn waarin de ontwikkeling plaatsvindt, gaat vinden of heeft gevonden. U kunt het overzicht filteren door gebruik te maken van de gespecificeerde tabbladen of de zoekfunctie bovenaan de pagina.
 
-- De **ontwikkelfase** waarin het item zich bevindt (zie hieronder)
-- Het **functiegebied** binnen onze apps (bijv. Logistics, Sales, Inventory)
-- Een specifieke **feature** of module
-- Eenmaal opgeleverd, krijgt het item het label **geleverd** en wordt het gesloten met een link naar de changelog
+Voor iedere ontwikkeling is een GitHub issue aangemaakt. Ieder issue bevat de volgende informatie: 
 
----
+- Korte omschrijving van de **functionaliteit(en)**
+- De **ontwikkelfase** waarin het roadmap-item zich bevindt*
+- Om welke **applicatie** het gaat
+- Het **functioneel domein** van de applicatie (bijv. Logistics, Sales, Inventory)*
+- De use case** of specifieke **feature** * 
+- Eenmaal opgeleverd, krijgt het item het label **geleverd** en wordt het gesloten met een link naar de changelog
 
-## Ontwikkelfases
+\* Meer informatie over de structuur van de ontwikkelfases, functionele domeinen, applicaties en use cases leest u in onderstaande alinea's.
 
-Onze roadmap is opgebouwd rondom vaste ontwikkelfases, zoals besproken tijdens de kickoff van een project. Elke app of functie doorloopt minimaal een MVP-fase, gevolgd door iteratieve uitbreidingen en verbeterslagen.
+❇️ Bekijk de [officiële publieke app-roadmap van Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
 
-### 🌱 Initiële ontwikkelfases (Kickoff-gebaseerd)
+## 2. Ontwikkelfases
+
+Onze roadmap is opgebouwd rondom vaste ontwikkelfases, zoals besproken tijdens de kick-off van ieder project. Iedere app, use case of functie doorloopt minimaal een MVP-fase, gevolgd door iteratieve uitbreidingen en verbeterslagen. Onderstaand een korte omschrijving van iedere specifieke fase:
+
+### 🌱 Initiële ontwikkelfases (Kick-off-gebaseerd)
 
 - **Dev phase 1 (MVP):**  
-  Eerste werkende versie met essentiële functionaliteit.
-
+    Eerste werkende versie met essentiële functionaliteit.
+    
 - **Livegang:**  
-  MVP wordt opgeleverd en eventueel in productie gebracht.
-
+    MVP wordt opgeleverd en eventueel in productie gebracht.
+    
 - **Dev phase 2 – 5 (child use cases):**  
-  Verfijning en uitbreiding van de MVP met specifieke extra functionaliteiten.
-
+    Verfijning en uitbreiding van de MVP met specifieke extra functionaliteiten.
+    
 - **Livegang na elke fase:**  
-  Tussentijdse opleveringen na afronding van elke ontwikkelfase.
+    Tussentijdse opleveringen na afronding van elke ontwikkelfase.
+    
 
 ### 🔄 Verbeterfases (Improve Phases)
 
 Zodra er voldoende feedback, ideeën of bugs zijn verzameld, starten we een nieuwe verbeterronde:
 
 - **Improve phase 1:**  
-  Optimalisatie en gebruiksverbeteringen op basis van praktijkervaring.
-
+    Optimalisatie en gebruiksverbeteringen op basis van praktijkervaring.
+    
 - **Improve phase 2, 3, …**  
-  Vervolgfases waarin batches van nieuwe verbeterpunten worden opgepakt.
+    Vervolgfases waarin batches van nieuwe verbeterpunten worden opgepakt.
+    
 
 Deze aanpak zorgt ervoor dat we snel waarde kunnen leveren én blijven verbeteren.
 
----
+## 3. App structuur: functioneel domein, applicaties en use cases
 
-## Functiegebieden en modulestructuur
+Om de roadmap overzichtelijk te houden, structureren we de items op drie niveaus: **functioneel domein, applicaties en use cases.**
 
-Voor het structureren van roadmap-items gebruiken we binnen Florisoft twee categorisatieniveaus:
+### 🔹 Functionele domeinen
 
-### 🔹 Projectlaag (functionele domeinen)
+De functionele domeinen zijn de hoofdgebieden binnen onze applicaties: Logistics, Purchasing, Sales, CRM, Assortment, Financial, Inventory, Management en Assets.
 
-- Logistics  
-- Purchasing  
-- Sales  
-- CRM  
-- Assortment  
-- Financial  
-- Inventory  
-- Management  
-- Assets
+### 🔸 Applicaties en use cases.
 
-### 🔸 Mapstructuur (deelmodules)
+Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de bijbehorende use cases. In sommige gevallen is de scope van een applicatie zo specifiek dat deze (nog) niet in aparte use cases is gedefinieerd. 
 
-- Packing, Picking, Sorting  
-- Quality Control, Labeling  
-- Track & Tracing, Receiving, Shipping  
-- Proposals, POS, Licensing  
-- Stock Counting, Asset Tracking, Jobagent  
-- Purchasing Proposals
+Door onderstaande functionele domeinen te openen, ziet u hoe de app-structuur per domein is opgebouwd. Binnenkort is de structuur ook als **visueel overzicht** beschikbaar via onderstaande link:
 
-Deze structuur zal binnenkort als visueel overzicht beschikbaar worden gesteld op de roadmap. Je vindt het dan met deze link.
+<details>
+<summary><strong>Logistics</strong></summary>
 
-📁 **[Bekijk de project- en mapstructuur (binnenkort beschikbaar)](https://github.com/Florisoft-issues/AppRoadmap/wiki/Structuur)**
+- **Applicatie:** Packing
 
----
+  **Use cases:** Kubus, Packing, Trolley Loading, Packaging Registration
+  
+- **Applicatie:** Picking 
+
+  **Use cases:** Palet Picking, Generic Picking
+  
+- **Applicatie:** Sorting
+
+  **Use cases:** Sorting
+  
+- **Applicatie:** Quality Control
+
+  **Use cases:** Final Outbound Check, Exception Handling, Exception Registration
+
+- **Applicatie:** Labeling
+
+  **Use cases:** Price label
+  
+- **Applicatie:** Track & Tracing
+
+  **Use cases:**  N.v.t.
+  
+- **Applicatie:** Receiving
+
+  **Use cases:** Entry Control
+  
+- **Applicatie:** Shipping
+
+  **Use cases:** Adress Label
+
+-  **Applicatie:** Automating Agent
+
+   **Use cases:** N.v.t.
+
+</details>
+
+<details>
+<summary><strong>Purchasing</strong></summary>
+
+- **Applicatie:** Proposals
+
+  **Use cases:** Offer Request Floriday
+
+</details>
+
+<details>
+<summary><strong>Sales</strong></summary>
+
+- **Applicatie:** POS
+
+  **Use cases:** Cash & Carry, Order Registration, Floriline
+  
+- **Applicatie:** Purchasing Proposals
+
+  **Use cases:** N.v.t.
+  
+- **Applicatie:** Licensing
+
+  **Use cases:** N.v.t.
+
+</details>
+
+<details>
+<summary><strong>CRM</strong></summary> 
+
+- **Applicatie:** Tickets
+
+  **Use cases:** N.v.t.
+
+</details>
+
+<details>
+<summary><strong>Assortment</strong></summary> 
+
+- **Applicatie:** Product Sourching
+
+  **Use cases:** Floriday Grower Catalog
+
+</details>
+
+<details>
+<summary><strong>Financial</strong></summary>
+
+- **Applicatie:** Invoice Receipt Verification
+
+  **Use cases:** N.v.t.
+  
+- **Applicatie:** Receiving Claims
+
+  **Use cases:** N.v.t.
+  
+- **Applicatie:** Payments
+
+  **Use cases:** N.v.t.
+  
+- **Applicatie:** Invoicing
+
+  **Use cases:** N.v.t.
+
+</details>
+
+<details>
+<summary><strong>Inventory</strong></summary> 
+
+- **Applicatie:** Inventory
+
+  **Use cases:** Slotting, Stock Counting
+  
+</details>
+
+<details>
+<summary><strong>Assets</strong></summary>
+
+- **Applicatie:** Asset Tracking
+
+  **Use cases:** N.v.t.
+
+</details>
+
+<details>
+<summary><strong>Integration Services</strong></summary>
+
+- **Applicatie:** Job Agent
+
+  **Use cases:** Job Agent Server, Job Agent Client
+
+  </details>
+
 ## Disclaimer
 
-Alle vooruitblikkende informatie in deze repository is gebaseerd op de kennis van dit moment. Deze roadmap is bedoeld als richtlijn en biedt geen garantie of belofte voor specifieke leverdata. De roadmap kan tussentijds worden aangepast. Gebruik de roadmap daarom niet als aankoopbeslissing.
+De informatie in deze repository, waaronder de roadmap, is gebaseerd op onze huidige kennis en inzichten. De roadmap is bedoeld als een indicatie van de verwachte ontwikkelingen, maar bevat geen garanties of toezeggingen over specifieke opleverdata. Het is ten aller tijden mogelijk dat de roadmap tussentijds wordt aangepast. We raden u daarom aan deze niet als basis voor aankoopbeslissingen te gebruiken.
+
+❇️ Bekijk de [officiële publieke app-roadmap van Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
