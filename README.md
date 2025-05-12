@@ -11,7 +11,7 @@ Welkom bij de publieke **Florisoft Roadmap**. Deze omgeving biedt een actueel en
 
 De huidige roadmap is bedoeld om onze gebruikers inzicht te geven in onze productontwikkeling. In een later stadium willen we de interactie verbreden, het format verfijnen en u de mogelijkheid bieden om actief mee te denken. 
 
-Indien u feedback wilt geven over de applicaties of deze omgeving, kan dat via [algemene feedback op GitHub](https://github.com/orgs/community/discussions/new?category=general).
+Indien u feedback wilt geven over de applicaties of deze omgeving, kan dat via [algemene feedback op GitHub](https://github.com/Florisoft-issues/AppRoadmap/discussions).
 
 ## 1. Opbouw & handleiding van de roadmap
 
