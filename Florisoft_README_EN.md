@@ -12,7 +12,7 @@ Welcome to the public **Florisoft Roadmap**. This environment provides an up-to-
 
 The current roadmap is intended to provide our users with insights into our product development. At a later stage, we aim to broaden interaction, refine the format, and offer you the opportunity to actively contribute.
 
-If you wish to provide feedback on the applications or this environment, please do so via [general feedback on GitHub](https://github.com/orgs/community/discussions/new?category=general).
+If you wish to provide feedback on the applications or this environment, please do so via [general feedback on GitHub](https://github.com/Florisoft-issues/AppRoadmap/discussions).
 
 ---
 
