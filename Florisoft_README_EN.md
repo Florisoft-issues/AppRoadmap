@@ -1,87 +1,88 @@
-# Florisoft Public Roadmap
 
-❇️ Check out the [official public app roadmap of Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
+📘 Available in: [Dutch version](https://github.com/Florisoft-issues/AppRoadmap/blob/main/README.md)
 
-Welcome to the public roadmap of Florisoft. Here you’ll find an overview of the app features we’re working on, their current development stage, and expected release timelines. Questions or suggestions? Join the conversation via [our public GitHub discussions](https://github.com/Florisoft-issues/AppRoadmap/discussions).
+❇️ View the [official public app roadmap of Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
 
-This repository is meant to offer transparency into our product development. Issues are currently read-only. In the future, we aim to broaden interactions and refine the roadmap format. Feedback on this environment itself is welcome via [general GitHub feedback](https://github.com/orgs/community/discussions/new?category=general).
+Welcome to the public **Florisoft Roadmap**. This environment provides an up-to-date and structured overview of the app functionalities we are working on, including their status and expected delivery timelines.
 
----
+**This repository covers the following topics:**
+1. [Roadmap Structure & Guidelines](#1-roadmap-structure--guidelines)  
+2. [Development Phases](#2-development-phases)  
+3. [App Structure: Functional Domains, Applications, and Use Cases](#3-app-structure-functional-domains-applications-and-use-cases)
 
-## Roadmap Guide
+The current roadmap is intended to provide our users with insights into our product development. At a later stage, we aim to broaden interaction, refine the format, and offer you the opportunity to actively contribute.
 
-Each roadmap item is a GitHub issue with labels indicating:
-
-- The **development phase** it’s in (see below)
-- The **functional area** within our apps (e.g., Logistics, Sales, Inventory)
-- A specific **feature** or module
-- Once delivered, the item receives a **delivered** label and is closed with a link to the changelog
+If you wish to provide feedback on the applications or this environment, please do so via [general feedback on GitHub](https://github.com/orgs/community/discussions/new?category=general).
 
 ---
 
-## Development Phases
+## 1. Roadmap Structure & Guidelines
 
-Our roadmap is structured around fixed development phases, as discussed during project kickoffs. Every app or feature goes through at least an MVP phase, followed by iterative enhancements and improvements.
+Upon opening the public roadmap, you will see a **complete overview** of all app developments, including the timeline in which the development is planned, ongoing, or completed. You can filter the overview using the specified tabs or the search functionality at the top of the page.
 
-### 🌱 Initial Development Phases (Kickoff-Based)
+Each development is linked to a GitHub issue, containing the following information:
+
+- Short description of the **functionality(-ies)**
+- The **development phase** of the roadmap item*
+- The relevant **application**
+- The **functional domain** of the application (e.g., Logistics, Sales, Inventory)*
+- The **use case** or specific **feature** *
+- Once delivered, the item receives the label **Delivered** and is closed with a link to the changelog.
+
+* More information about the structure of the development phases, functional domains, applications, and use cases can be found below.
+
+❇️ View the [official public app roadmap of Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
+
+---
+
+## 2. Development Phases
+
+Our roadmap is structured around fixed development phases, as discussed during each project’s kick-off. Every app, use case, or feature goes through at least an MVP phase, followed by iterative expansions and improvements. Below is a brief description of each specific phase:
+
+### 🌱 Initial Development Phases (Kick-off Based)
 
 - **Dev phase 1 (MVP):**  
-  The first working version with core functionality.
+    First working version with essential functionality.
 
-- **Go-live:**  
-  MVP is delivered and potentially deployed in production.
+- **Go-Live:**  
+    MVP is delivered and possibly deployed to production.
 
-- **Dev phase 2 – 5 (child use cases):**  
-  Refinements and enhancements to the MVP with targeted additional features.
+- **Dev phase 2 – 5 (Child Use Cases):**  
+    Refinement and expansion of the MVP with additional specific functionalities.
 
-- **Go-live after each phase:**  
-  Intermediate deliveries following the completion of each phase.
+- **Go-Live after each phase:**  
+    Intermediate deliveries after completion of each development phase.
 
 ### 🔄 Improvement Phases
 
-Once enough feedback, ideas, or bugs have been collected, we start a new improvement round:
+When sufficient feedback, ideas, or bugs have been collected, we start a new improvement round:
 
 - **Improve phase 1:**  
-  Optimizations and UX improvements based on real-world use.
+    Optimization and usability improvements based on real-world experience.
 
 - **Improve phase 2, 3, …**  
-  Follow-up phases handling batches of new enhancements.
+    Follow-up phases addressing batches of new improvements.
 
-This approach allows us to deliver value quickly while continuously improving.
+This approach ensures we can deliver value quickly and continuously improve.
 
 ---
 
-## Functional Areas and Module Structure
+## 3. App Structure: Functional Domains, Applications, and Use Cases
 
-To organize roadmap items, Florisoft uses two levels of categorization:
+To keep the roadmap clear, we structure the items on three levels: **Functional Domain, Applications, and Use Cases.**
 
-### 🔹 Project Layer (Functional Domains)
+### 🔹 Functional Domains
 
-- Logistics  
-- Purchasing  
-- Sales  
-- CRM  
-- Assortment  
-- Financial  
-- Inventory  
-- Management  
-- Assets
+The functional domains represent the main areas within our applications: Logistics, Purchasing, Sales, CRM, Assortment, Financial, Inventory, Management, and Assets.
 
-### 🔸 Map Structure (Submodules)
+### 🔸 Applications and Use Cases
 
-- Packing, Picking, Sorting  
-- Quality Control, Labeling  
-- Track & Tracing, Receiving, Shipping  
-- Proposals, POS, Licensing  
-- Stock Counting, Asset Tracking, Jobagent  
-- Purchasing Proposals
-
-This structure will soon be available as a visual overview within the roadmap. You’ll find it via this link:
-
-📁 **[View the project and map structure (coming soon)](https://github.com/Florisoft-issues/AppRoadmap/wiki/Structuur)**
+Within each functional domain, we distinguish between various applications and their corresponding use cases. In some cases, the scope of an application is so specific that it has not yet been divided into separate use cases.
 
 ---
 
 ## Disclaimer
 
-All forward-looking information in this repository is based on our current knowledge. This roadmap serves as a guideline and does not represent a guarantee or promise for specific delivery dates. The roadmap may be adjusted at any time. Therefore, please do not use the roadmap as a basis for purchasing decisions.
+The information in this repository, including the roadmap, is based on our current knowledge and insights. The roadmap serves as an indication of expected developments but does not provide guarantees or commitments regarding specific delivery dates. The roadmap may be adjusted at any time. Therefore, we advise against using it as a basis for purchase decisions.
+
+❇️ View the [official public app roadmap of Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
