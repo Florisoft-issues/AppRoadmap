@@ -14,8 +14,6 @@ The current roadmap is intended to provide our users with insights into our prod
 
 If you wish to provide feedback on the applications or this environment, please do so via [general feedback on GitHub](https://github.com/Florisoft-issues/AppRoadmap/discussions).
 
----
-
 ## 1. Roadmap Structure & Guidelines
 
 Upon opening the public roadmap, you will see a **complete overview** of all app developments, including the timeline in which the development is planned, ongoing, or completed. You can filter the overview using the specified tabs or the search functionality at the top of the page.
@@ -32,8 +30,6 @@ Each development is linked to a GitHub issue, containing the following informati
 * More information about the structure of the development phases, functional domains, applications, and use cases can be found below.
 
 ❇️ View the [official public app roadmap of Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
-
----
 
 ## 2. Development Phases
 
@@ -65,8 +61,6 @@ When sufficient feedback, ideas, or bugs have been collected, we start a new imp
 
 This approach ensures we can deliver value quickly and continuously improve.
 
----
-
 ## 3. App Structure: Functional Domains, Applications, and Use Cases
 
 To keep the roadmap clear, we structure the items on three levels: **Functional Domain, Applications, and Use Cases.**
@@ -79,7 +73,138 @@ The functional domains represent the main areas within our applications: Logisti
 
 Within each functional domain, we distinguish between various applications and their corresponding use cases. In some cases, the scope of an application is so specific that it has not yet been divided into separate use cases.
 
----
+<details>
+<summary><strong>Logistics</strong></summary>
+
+- **Applicatie:** Packing
+
+  **Use cases:** Kubus, Packing, Trolley Loading
+  
+- **Applicatie:** Picking 
+
+  **Use cases:** Palet Picking, Generic Picking
+  
+- **Applicatie:** Quality Control
+
+  **Use cases:** Final Outbound Check, Exception Handling, Exception Registration
+
+- **Applicatie:** Labeling
+
+  **Use cases:** Price label, Stock label
+  
+- **Applicatie:** Track & Tracing
+
+  **Use cases:**  N.v.t.
+  
+- **Applicatie:** Receiving
+
+  **Use cases:** Entry Control
+  
+- **Applicatie:** Shipping
+
+  **Use cases:** Adress Label
+
+-  **Applicatie:** Automating Agent
+
+   **Use cases:** Sorting, Weighing
+
+</details>
+
+<details>
+<summary><strong>Purchasing</strong></summary>
+
+- **Applicatie:** Proposals
+
+  **Use cases:** Offer Request Floriday
+
+</details>
+
+<details>
+<summary><strong>Sales</strong></summary>
+
+- **Applicatie:** POS
+
+  **Use cases:** Cash & Carry, Order Registration, Floriline
+  
+- **Applicatie:** Purchasing Proposals
+
+  **Use cases:** N.v.t.
+  
+- **Applicatie:** Licensing
+
+  **Use cases:** N.v.t.
+
+</details>
+
+<details>
+<summary><strong>CRM</strong></summary> 
+
+- **Applicatie:** Tickets
+
+  **Use cases:** N.v.t.
+
+</details>
+
+<details>
+<summary><strong>Assortment</strong></summary> 
+
+- **Applicatie:** Product Sourching
+
+  **Use cases:** Floriday Grower Catalog
+
+</details>
+
+<details>
+<summary><strong>Financial</strong></summary>
+
+- **Applicatie:** Invoice Receipt Verification
+
+  **Use cases:** N.v.t.
+  
+- **Applicatie:** Receiving Claims
+
+  **Use cases:** N.v.t.
+  
+- **Applicatie:** Payments
+
+  **Use cases:** N.v.t.
+  
+- **Applicatie:** Invoicing
+
+  **Use cases:** N.v.t.
+
+</details>
+
+<details>
+<summary><strong>Inventory</strong></summary> 
+
+- **Applicatie:** Inventory
+
+  **Use cases:** Slotting, Stock Counting
+  
+</details>
+
+<details>
+<summary><strong>Assets</strong></summary>
+
+- **Applicatie:** Asset Tracking
+
+  **Use cases:** Outbound, Inbound
+
+</details>
+
+<details>
+<summary><strong>Core services</strong></summary>
+
+- **Applicatie:** Hub
+
+  **Use cases:** N.v.t.
+  
+- **Applicatie:** Job Agent
+
+  **Use cases:** Job Agent Server, Job Agent Client
+
+  </details>
 
 ## Disclaimer
 
