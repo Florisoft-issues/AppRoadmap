@@ -81,15 +81,11 @@ Door onderstaande functionele domeinen te openen, ziet u hoe de app-structuur pe
 
 - **Applicatie:** Packing
 
-  **Use cases:** Kubus, Packing, Trolley Loading, Packaging Registration
+  **Use cases:** Kubus, Packing, Trolley Loading
   
 - **Applicatie:** Picking 
 
   **Use cases:** Palet Picking, Generic Picking
-  
-- **Applicatie:** Sorting
-
-  **Use cases:** Sorting
   
 - **Applicatie:** Quality Control
 
@@ -97,7 +93,7 @@ Door onderstaande functionele domeinen te openen, ziet u hoe de app-structuur pe
 
 - **Applicatie:** Labeling
 
-  **Use cases:** Price label
+  **Use cases:** Price label, Stock label
   
 - **Applicatie:** Track & Tracing
 
@@ -113,7 +109,7 @@ Door onderstaande functionele domeinen te openen, ziet u hoe de app-structuur pe
 
 -  **Applicatie:** Automating Agent
 
-   **Use cases:** N.v.t.
+   **Use cases:** Sorting, Weighing
 
 </details>
 
@@ -196,13 +192,17 @@ Door onderstaande functionele domeinen te openen, ziet u hoe de app-structuur pe
 
 - **Applicatie:** Asset Tracking
 
-  **Use cases:** N.v.t.
+  **Use cases:** Outbound, Inbound
 
 </details>
 
 <details>
 <summary><strong>Core services</strong></summary>
 
+- **Applicatie:** Hub
+
+  **Use cases:** N.v.t.
+  
 - **Applicatie:** Job Agent
 
   **Use cases:** Job Agent Server, Job Agent Client
