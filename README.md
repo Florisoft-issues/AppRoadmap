@@ -74,8 +74,6 @@ De functionele domeinen zijn de hoofdgebieden binnen onze applicaties: Logistics
 
 Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de bijbehorende use cases. In sommige gevallen is de scope van een applicatie zo specifiek dat deze (nog) niet in aparte use cases is gedefinieerd. 
 
-Door onderstaande functionele domeinen te openen, ziet u hoe de app-structuur per domein is opgebouwd. Binnenkort is de structuur ook als **visueel overzicht** beschikbaar via onderstaande link:
-
 <details>
 <summary><strong>Logistics</strong></summary>
 
