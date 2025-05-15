@@ -201,7 +201,7 @@ Door onderstaande functionele domeinen te openen, ziet u hoe de app-structuur pe
 </details>
 
 <details>
-<summary><strong>Integration Services</strong></summary>
+<summary><strong>Core services</strong></summary>
 
 - **Applicatie:** Job Agent
 
