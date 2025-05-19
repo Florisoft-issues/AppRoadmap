@@ -1,5 +1,5 @@
 
-📘 Available in: [Dutch version](https://github.com/Florisoft-issues/AppRoadmap/blob/main/README.md)
+📘 Beschikbaar in: [Dutch version](https://github.com/Florisoft-issues/AppRoadmap/blob/main/README.md)
 
 ❇️ View the [official public app roadmap of Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
 
