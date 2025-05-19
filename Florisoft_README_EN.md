@@ -12,7 +12,7 @@ Welcome to the public **Florisoft Roadmap**. This environment provides an up-to-
 
 The current roadmap is intended to provide our users with insights into our product development. At a later stage, we aim to broaden interaction, refine the format, and offer you the opportunity to actively contribute.
 
-We have a dedicated discussion channel where we share announcements, such as the release of new applications or the introduction of new features. You can find this channel at: [GitHub Discussions – AppRoadmap](https://github.com/Florisoft-issues/AppRoadmap/discussions).
+The discussion channel allows you to stay informed about announcements, such as the delivery of an application or the introduction of new features. You can find this channel via the following link: [GitHub Discussions – AppRoadmap](https://github.com/Florisoft-issues/AppRoadmap/discussions).
 
 All changes and updates are also available in the changelog: [Changelog Florisoft](https://app.florisoft.nl/apps/latest/changelog.html).
 
