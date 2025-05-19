@@ -12,7 +12,9 @@ Welcome to the public **Florisoft Roadmap**. This environment provides an up-to-
 
 The current roadmap is intended to provide our users with insights into our product development. At a later stage, we aim to broaden interaction, refine the format, and offer you the opportunity to actively contribute.
 
-If you wish to provide feedback on the applications or this environment, please do so via [general feedback on GitHub](https://github.com/Florisoft-issues/AppRoadmap/discussions).
+We have a dedicated discussion channel where we share announcements, such as the release of new applications or the introduction of new features. You can find this channel at: [GitHub Discussions – AppRoadmap](https://github.com/Florisoft-issues/AppRoadmap/discussions).
+
+All changes and updates are also available in the changelog: [Changelog Florisoft](https://app.florisoft.nl/apps/latest/changelog.html).
 
 ## 1. Roadmap Structure & Guidelines
 
