@@ -1,4 +1,4 @@
-📘 Beschikbaar in: [English version](https://github.com/Florisoft-issues/AppRoadmap/blob/main/Florisoft_README_EN.md)
+📘 Available in: [English version](https://github.com/Florisoft-issues/AppRoadmap/blob/main/Florisoft_README_EN.md)
 
 ❇️ Bekijk de [officiële publieke app-roadmap van Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
 
