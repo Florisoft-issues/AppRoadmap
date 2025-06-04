@@ -34,7 +34,7 @@ Voor iedere ontwikkeling is een GitHub issue aangemaakt. Ieder issue bevat de vo
 
 ## 2. Ontwikkelfases
 
-Onze roadmap is opgebouwd rondom vaste ontwikkelfases, zoals besproken tijdens de kick-off van ieder project. Iedere app, use case of functie doorloopt minimaal een MVP-fase, gevolgd door iteratieve uitbreidingen en verbeterslagen. Onderstaand een korte omschrijving van iedere specifieke fase:
+Onze roadmap is opgebouwd rondom vaste ontwikkelfases, zoals besproken tijdens de kick-off van ieder project. Iedere app, use case of functie doorloopt minimaal een MVP-fase (Minimum Viable Product – een eerste versie met basisfunctionaliteit die snel inzetbaar is), gevolgd door iteratieve uitbreidingen en verbeterslagen. Onderstaand een korte omschrijving van iedere specifieke fase:
 
 ### 🌱 Initiële ontwikkelfases (Kick-off-gebaseerd)
 
