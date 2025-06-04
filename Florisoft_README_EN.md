@@ -8,11 +8,11 @@ Welcome to the public **Florisoft Roadmap**. This environment provides an up-to-
 **This repository covers the following topics:**
 1. [Roadmap Structure & Guidelines](#1-roadmap-structure--guidelines)  
 2. [Development Phases](#2-development-phases)  
-3. [App Structure: Functional Domains, Applications, and Use Cases](#3-app-structure-functional-domains-applications-and-use-cases)
+3. [App Structure: Functional Domains, Apps, and Use Cases](#3-app-structure-functional-domains-apps-and-use-cases)
 
 The current roadmap is intended to provide our users with insights into our product development. At a later stage, we aim to broaden interaction, refine the format, and offer you the opportunity to actively contribute.
 
-The discussion channel allows you to stay informed about announcements, such as the delivery of an application or the introduction of new features. You can find this channel via the following link: [GitHub Discussions – AppRoadmap](https://github.com/Florisoft-issues/AppRoadmap/discussions).
+The discussion channel allows you to stay informed about announcements, such as the delivery of an app or the introduction of new features. You can find this channel via the following link: [GitHub Discussions – AppRoadmap](https://github.com/Florisoft-issues/AppRoadmap/discussions).
 
 All changes and updates are also available in the changelog: [Changelog Florisoft](https://app.florisoft.nl/apps/latest/changelog.html).
 
@@ -24,12 +24,12 @@ Each development is linked to a GitHub issue, containing the following informati
 
 - Short description of the **functionality(-ies)**
 - The **development phase** of the roadmap item*
-- The relevant **application**
-- The **functional domain** of the application (e.g., Logistics, Sales, Inventory)*
+- The relevant **app**
+- The **functional domain** of the app (e.g., Logistics, Sales, Inventory)*
 - The **use case** or specific **feature** *
 - Once delivered, the item receives the label **Delivered** and is closed with a link to the changelog.
 
-* More information about the structure of the development phases, functional domains, applications, and use cases can be found below.
+* More information about the structure of the development phases, functional domains, app, and use cases can be found below.
 
 ❇️ View the [official public app roadmap of Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
 
@@ -63,50 +63,50 @@ When sufficient feedback, ideas, or bugs have been collected, we start a new imp
 
 This approach ensures we can deliver value quickly and continuously improve.
 
-## 3. App Structure: Functional Domains, Applications, and Use Cases
+## 3. App Structure: Functional Domains, Apps, and Use Cases
 
-To keep the roadmap clear, we structure the items on three levels: **Functional Domain, Applications, and Use Cases.**
+To keep the roadmap clear, we structure the items on three levels: **Functional Domain, Apps, and Use Cases.**
 
 ### 🔹 Functional Domains
 
-The functional domains represent the main areas within our applications: Logistics, Purchasing, Sales, CRM, Assortment, Financial, Inventory, Management, and Assets.
+The functional domains represent the main areas within our apps: Logistics, Purchasing, Sales, CRM, Assortment, Financial, Inventory, Management, and Assets.
 
-### 🔸 Applications and Use Cases
+### 🔸 Apps and Use Cases
 
-Within each functional domain, we distinguish between various applications and their corresponding use cases. In some cases, the scope of an application is so specific that it has not yet been divided into separate use cases.
+Within each functional domain, we distinguish between various apps and their corresponding use cases. In some cases, the scope of an app is so specific that it has not yet been divided into separate use cases.
 
 <details>
 <summary><strong>Logistics</strong></summary>
 
-- **Applicatie:** Packing
+- **App:** Packing
 
   **Use cases:** Kubus, Packing, Trolley Loading
   
-- **Applicatie:** Picking 
+- **App:** Picking 
 
   **Use cases:** Palet Picking, Generic Picking
   
-- **Applicatie:** Quality Control
+- **App:** Quality Control
 
   **Use cases:** Final Outbound Check, Exception Handling, Exception Registration
 
-- **Applicatie:** Labeling
+- **App:** Labeling
 
   **Use cases:** Price label, Stock label
   
-- **Applicatie:** Track & Tracing
+- **App:** Track & Tracing
 
   **Use cases:**  N.v.t.
   
-- **Applicatie:** Receiving
+- **App:** Receiving
 
   **Use cases:** Entry Control
   
-- **Applicatie:** Shipping
+- **App:** Shipping
 
   **Use cases:** Adress Label
 
--  **Applicatie:** Automating Agent
+-  **App:** Automating Agent
 
    **Use cases:** Sorting, Weighing
 
@@ -115,7 +115,7 @@ Within each functional domain, we distinguish between various applications and t
 <details>
 <summary><strong>Purchasing</strong></summary>
 
-- **Applicatie:** Proposals
+- **App:** Proposals
 
   **Use cases:** Offer Request Floriday
 
@@ -124,15 +124,15 @@ Within each functional domain, we distinguish between various applications and t
 <details>
 <summary><strong>Sales</strong></summary>
 
-- **Applicatie:** POS
+- **App:** POS
 
   **Use cases:** Cash & Carry, Order Registration, Floriline
   
-- **Applicatie:** Purchasing Proposals
+- **App:** Purchasing Proposals
 
   **Use cases:** N.v.t.
   
-- **Applicatie:** Licensing
+- **App:** Licensing
 
   **Use cases:** N.v.t.
 
@@ -141,7 +141,7 @@ Within each functional domain, we distinguish between various applications and t
 <details>
 <summary><strong>CRM</strong></summary> 
 
-- **Applicatie:** Tickets
+- **App:** Tickets
 
   **Use cases:** N.v.t.
 
@@ -150,7 +150,7 @@ Within each functional domain, we distinguish between various applications and t
 <details>
 <summary><strong>Assortment</strong></summary> 
 
-- **Applicatie:** Product Sourching
+- **App:** Product Sourching
 
   **Use cases:** Floriday Grower Catalog
 
@@ -159,19 +159,19 @@ Within each functional domain, we distinguish between various applications and t
 <details>
 <summary><strong>Financial</strong></summary>
 
-- **Applicatie:** Invoice Receipt Verification
+- **App:** Invoice Receipt Verification
 
   **Use cases:** N.v.t.
   
-- **Applicatie:** Receiving Claims
+- **App:** Receiving Claims
 
   **Use cases:** N.v.t.
   
-- **Applicatie:** Payments
+- **App:** Payments
 
   **Use cases:** N.v.t.
   
-- **Applicatie:** Invoicing
+- **App:** Invoicing
 
   **Use cases:** N.v.t.
 
@@ -180,7 +180,7 @@ Within each functional domain, we distinguish between various applications and t
 <details>
 <summary><strong>Inventory</strong></summary> 
 
-- **Applicatie:** Inventory
+- **App:** Inventory
 
   **Use cases:** Slotting, Stock Counting
   
@@ -189,7 +189,7 @@ Within each functional domain, we distinguish between various applications and t
 <details>
 <summary><strong>Assets</strong></summary>
 
-- **Applicatie:** Asset Tracking
+- **App:** Asset Tracking
 
   **Use cases:** Outbound, Inbound
 
@@ -198,11 +198,11 @@ Within each functional domain, we distinguish between various applications and t
 <details>
 <summary><strong>Core services</strong></summary>
 
-- **Applicatie:** Hub
+- **App:** Hub
 
   **Use cases:** N.v.t.
   
-- **Applicatie:** Job Agent
+- **App:** Job Agent
 
   **Use cases:** Job Agent Server, Job Agent Client
 
