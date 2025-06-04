@@ -7,11 +7,11 @@ Welkom bij de publieke **Florisoft Roadmap**. Deze omgeving biedt een actueel en
 **In deze repository worden onderstaande punten nader toegelicht:**
 1. [Opbouw & handleiding van de roadmap](#1-opbouw--handleiding-van-de-roadmap)  
 2. [Ontwikkelfases](#2-ontwikkelfases)  
-3. [App structuur: functioneel domein, applicaties en use cases](#3-app-structuur-functioneel-domein-applicaties-en-use-cases)
+3. [App structuur: functioneel domein, apps en use cases](#3-app-structuur-functioneel-domein-appss-en-use-cases)
 
 De huidige roadmap is bedoeld om onze gebruikers inzicht te geven in onze productontwikkeling. In een later stadium willen we de interactie verbreden, het format verfijnen en u de mogelijkheid bieden om actief mee te denken. 
 
-Via het discussiekanaal blijft u op de hoogte van aankondigingen, zoals de oplevering van een applicatie of de introductie van nieuwe functionaliteiten. U vindt dit kanaal via de volgende link: [GitHub Discussions – AppRoadmap](https://github.com/Florisoft-issues/AppRoadmap/discussions).
+Via het discussiekanaal blijft u op de hoogte van aankondigingen, zoals de oplevering van een app of de introductie van nieuwe functionaliteiten. U vindt dit kanaal via de volgende link: [GitHub Discussions – AppRoadmap](https://github.com/Florisoft-issues/AppRoadmap/discussions).
 
 Alle wijzigingen en updates kunt u bovendien terugvinden in het changelog via: [Changelog Florisoft](https://app.florisoft.nl/apps/latest/changelog.html).
 
@@ -23,12 +23,12 @@ Voor iedere ontwikkeling is een GitHub issue aangemaakt. Ieder issue bevat de vo
 
 - Korte omschrijving van de **functionaliteit(en)**
 - De **ontwikkelfase** waarin het roadmap-item zich bevindt*
-- Om welke **applicatie** het gaat
-- Het **functioneel domein** van de applicatie (bijv. Logistics, Sales, Inventory)*
+- Om welke **app** het gaat
+- Het **functioneel domein** van de app (bijv. Logistics, Sales, Inventory)*
 - De use case** of specifieke **feature** * 
 - Eenmaal opgeleverd, krijgt het item het label **geleverd** en wordt het gesloten met een link naar de changelog
 
-\* Meer informatie over de structuur van de ontwikkelfases, functionele domeinen, applicaties en use cases leest u in onderstaande alinea's.
+\* Meer informatie over de structuur van de ontwikkelfases, functionele domeinen, apps en use cases leest u in onderstaande alinea's.
 
 ❇️ Bekijk de [officiële publieke app-roadmap van Florisoft](https://github.com/orgs/Florisoft-issues/projects/67)
 
@@ -64,50 +64,50 @@ Zodra er voldoende feedback, ideeën of bugs zijn verzameld, starten we een nieu
 
 Deze aanpak zorgt ervoor dat we snel waarde kunnen leveren én blijven verbeteren.
 
-## 3. App structuur: functioneel domein, applicaties en use cases
+## 3. App structuur: functioneel domein, apps en use cases
 
-Om de roadmap overzichtelijk te houden, structureren we de items op drie niveaus: **functioneel domein, applicaties en use cases.**
+Om de roadmap overzichtelijk te houden, structureren we de items op drie niveaus: **functioneel domein, apps en use cases.**
 
 ### 🔹 Functionele domeinen
 
-De functionele domeinen zijn de hoofdgebieden binnen onze applicaties: Logistics, Purchasing, Sales, CRM, Assortment, Financial, Inventory, Management en Assets.
+De functionele domeinen zijn de hoofdgebieden binnen onze apps: Logistics, Purchasing, Sales, CRM, Assortment, Financial, Inventory, Management en Assets.
 
-### 🔸 Applicaties en use cases.
+### 🔸 Apps en use cases.
 
-Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de bijbehorende use cases. In sommige gevallen is de scope van een applicatie zo specifiek dat deze (nog) niet in aparte use cases is gedefinieerd. 
+Binnen ieder functioneel domein onderscheiden we verschillende apps en de bijbehorende use cases. In sommige gevallen is de scope van een app zo specifiek dat deze (nog) niet in aparte use cases is gedefinieerd. 
 
 <details>
 <summary><strong>Logistics</strong></summary>
 
-- **Applicatie:** Packing
+- **App:** Packing
 
   **Use cases:** Kubus, Packing, Trolley Loading
   
-- **Applicatie:** Picking 
+- **App:** Picking 
 
   **Use cases:** Palet Picking, Generic Picking
   
-- **Applicatie:** Quality Control
+- **App:** Quality Control
 
   **Use cases:** Final Outbound Check, Exception Handling, Exception Registration
 
-- **Applicatie:** Labeling
+- **App:** Labeling
 
   **Use cases:** Price label, Stock label
   
-- **Applicatie:** Track & Tracing
+- **App:** Track & Tracing
 
   **Use cases:**  N.v.t.
   
-- **Applicatie:** Receiving
+- **App:** Receiving
 
   **Use cases:** Entry Control
   
-- **Applicatie:** Shipping
+- **App:** Shipping
 
   **Use cases:** Adress Label
 
--  **Applicatie:** Automating Agent
+-  **App:** Automating Agent
 
    **Use cases:** Sorting, Weighing
 
@@ -116,7 +116,7 @@ Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de
 <details>
 <summary><strong>Purchasing</strong></summary>
 
-- **Applicatie:** Proposals
+- **App:** Proposals
 
   **Use cases:** Offer Request Floriday
 
@@ -125,15 +125,15 @@ Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de
 <details>
 <summary><strong>Sales</strong></summary>
 
-- **Applicatie:** POS
+- **App:** POS
 
   **Use cases:** Cash & Carry, Order Registration, Floriline
   
-- **Applicatie:** Purchasing Proposals
+- **App:** Purchasing Proposals
 
   **Use cases:** N.v.t.
   
-- **Applicatie:** Licensing
+- **App:** Licensing
 
   **Use cases:** N.v.t.
 
@@ -142,7 +142,7 @@ Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de
 <details>
 <summary><strong>CRM</strong></summary> 
 
-- **Applicatie:** Tickets
+- **App:** Tickets
 
   **Use cases:** N.v.t.
 
@@ -151,7 +151,7 @@ Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de
 <details>
 <summary><strong>Assortment</strong></summary> 
 
-- **Applicatie:** Product Sourching
+- **App:** Product Sourching
 
   **Use cases:** Floriday Grower Catalog
 
@@ -160,19 +160,19 @@ Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de
 <details>
 <summary><strong>Financial</strong></summary>
 
-- **Applicatie:** Invoice Receipt Verification
+- **App:** Invoice Receipt Verification
 
   **Use cases:** N.v.t.
   
-- **Applicatie:** Receiving Claims
+- **App:** Receiving Claims
 
   **Use cases:** N.v.t.
   
-- **Applicatie:** Payments
+- **App:** Payments
 
   **Use cases:** N.v.t.
   
-- **Applicatie:** Invoicing
+- **App:** Invoicing
 
   **Use cases:** N.v.t.
 
@@ -181,7 +181,7 @@ Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de
 <details>
 <summary><strong>Inventory</strong></summary> 
 
-- **Applicatie:** Inventory
+- **App:** Inventory
 
   **Use cases:** Slotting, Stock Counting
   
@@ -190,7 +190,7 @@ Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de
 <details>
 <summary><strong>Assets</strong></summary>
 
-- **Applicatie:** Asset Tracking
+- **App:** Asset Tracking
 
   **Use cases:** Outbound, Inbound
 
@@ -199,11 +199,11 @@ Binnen ieder functioneel domein onderscheiden we verschillende applicaties en de
 <details>
 <summary><strong>Core services</strong></summary>
 
-- **Applicatie:** Hub
+- **App:** Hub
 
   **Use cases:** N.v.t.
   
-- **Applicatie:** Job Agent
+- **App:** Job Agent
 
   **Use cases:** Job Agent Server, Job Agent Client
 
