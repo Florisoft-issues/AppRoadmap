@@ -35,7 +35,7 @@ Each development is linked to a GitHub issue, containing the following informati
 
 ## 2. Development Phases
 
-Our roadmap is structured around fixed development phases, as discussed during each project’s kick-off. Every app, use case, or feature goes through at least an MVP phase, followed by iterative expansions and improvements. Below is a brief description of each specific phase:
+Our roadmap is structured around fixed development phases, as discussed during the kick-off of each project. Every app, use case, or feature goes through at least an MVP phase (Minimum Viable Product – an initial version with core functionality that is quickly deployable), followed by iterative enhancements and extensions. Below is a short description of each specific phase:
 
 ### 🌱 Initial Development Phases (Kick-off Based)
 
